@@ -1,2 +1,2 @@
-# power-Bi
+# power-Bi project
 Amazon dashboard
